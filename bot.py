@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands, tasks
 import asyncio
 
-TOKEN = 'MTE5NTY3OTM1NDIxOTM5NzIyMQ.GxAw7B.aDDFw05siK6oWfAt-aExqf1ZjQuptrYZIfMIc0'
+TOKEN = 'Сюда ваш токен'
 PREFIX = '?'
 intents = discord.Intents.all()
 bot = commands.Bot(command_prefix=PREFIX, intents=intents)
